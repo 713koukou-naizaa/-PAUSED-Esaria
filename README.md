@@ -1,3 +1,2 @@
 # Esaria
-
-# Linear, RPG, adventure, fantasy game
+Linear, RPG, adventure, fantasy game
