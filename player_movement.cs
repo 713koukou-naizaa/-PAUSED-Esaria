@@ -1,26 +1,25 @@
 using UnityEngine;
 
 
-/*
-NAMING SYNTAX:
+/*NAMING SYNTAX:
 
-constructor xxx:        cstr_xxx
-struct xxx:             stc_xxx
-class xxx:              cls_xxx
-object xxx:             obj_xxx
-fct xxx:                fct_xxx
-set int fct xxx:        set_fct_int_xxx
-get int fct xxx:        get_fct_int_xxx
-int pointer xxx:        ptr_int_xxx
+constructor xxx of class xxx:       cls_xxx
+struct xxx:                         stc_xxx
+class xxx:                          cls_xxx
+object xxx:                         obj_xxx
+int fct xxx:                        fct_int_xxx
+set int xxx:                        set_int_xxx
+get int xxx:                        get_int_xxx
+int pointer xxx:                    ptr_int_xxx
 
-string var xxx:         str_xxx
-int var xxx:            int_xxx
-unsigned int var xxx:   uint_xxx
-const str var xxx:      STR_xxx
-const int var xxx:      INT_xxx
-const uint var xxx:     UINT_xxx
+string var xxx:                     str_xxx
+int var xxx:                        int_xxx
+unsigned int var xxx:               uint_xxx
+const str xxx:                      STR_xxx
+const int xxx:                      INT_xxx
+const uint xxx:                     UINT_xxx
 
-fct int arg xxx:        int_aXxx
+fct int arg xxx:                    int_aXxx
 */
 
 
