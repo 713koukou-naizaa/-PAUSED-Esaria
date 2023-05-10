@@ -15,9 +15,9 @@ int pointer xxx:                    ptr_int_xxx
 string var xxx:                     str_xxx
 int var xxx:                        int_xxx
 unsigned int var xxx:               uint_xxx
-const str var xxx:                  STR_xxx
-const int var xxx:                  INT_xxx
-const uint var xxx:                 UINT_xxx
+const str xxx:                      STR_xxx
+const int xxx:                      INT_xxx
+const uint xxx:                     UINT_xxx
 
 fct int arg xxx:                    int_aXxx
 */
